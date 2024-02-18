@@ -5,4 +5,6 @@ Ever wanted to lookup an OID related to PKI? Look no further, because this repos
 
 ## Table of Contents
 - [Standard Extension OIDs](standard_extension_oids.md)
+- [Subject OIDs](subject_oids.md)
 - [Extended Key Usage OIDs](extended_key_usage_oids.md)
+- [Authority Information Access and Subject Information Access OIDs](authority_information_access_and_subject_information_access_oids.md)
